@@ -6,7 +6,7 @@
     "icons": {
         "128": "images/icons/icon128.png"
     },
-    "app": {
+    "app": { 
         "background": {
             "scripts": ["scripts/background.js"]
         }
